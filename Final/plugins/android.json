@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ca.edumedia.nabo0007.Final"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.nabo0007.Final"
+        }
+    },
+    "dependent_plugins": {}
+}
